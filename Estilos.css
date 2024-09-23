@@ -34,13 +34,18 @@ body{
 .logo{
     font-weight: 800;
     font-size: 25px;
+<<<<<<< HEAD
     color: #2abd81; 
+=======
+    color: #2abd81 ;
+>>>>>>> 5f20d27bc38e41e076a02ed66c9052b8d576f143
     text-transform: uppercase;
 }
 .menu .navbar ul li{
     position: relative;
     float: left;
 }
+<<<<<<< HEAD
 
 .menu .navbar ul li a{
     font-size: 17px;
@@ -50,6 +55,8 @@ body{
     display: block;
     text-transform: uppercase;
 }
+=======
+>>>>>>> 5f20d27bc38e41e076a02ed66c9052b8d576f143
 .menu .navbar ul li a:hover{
     color: #12114D;
 }
@@ -62,6 +69,7 @@ body{
 .menu label{
     cursor: pointer;
     display: none;
+<<<<<<< HEAD
 }
 .header-content{
     margin-top: 100px;
@@ -294,3 +302,6 @@ h2 {
         margin-top: 50px;
     }
 }
+=======
+}
+>>>>>>> 5f20d27bc38e41e076a02ed66c9052b8d576f143
